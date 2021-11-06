@@ -439,6 +439,93 @@ Devops Tools:
 
 ![devos](https://user-images.githubusercontent.com/11579239/98439492-34945480-2118-11eb-8d03-774700fda2b3.png)
 
+	
+	# CI-CD-Pipeline
+
+CI/CD pipeline 
+
+![ci](https://user-images.githubusercontent.com/11579239/94849965-d9e64980-0443-11eb-95f0-326d22061d94.png)
+
+* GIT
+* DOCKER
+* AWS
+* JENKINS
+
+
+
+#### Devops:
+
+* Version Control - SVN, GIT 
+
+* Continuous Integration - compile, Validate, code review, unit test, integration testing
+
+* Continuous Delivery - Deployment the build application to test servers. Performing UAT
+
+* Continuous Deploy - Deploying the tested application on the prod server for release.
+
+
+#### Docker:
+
+* A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another.
+
+* A Docker container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: 
+  code, 
+  runtime,
+  system tools, 
+  system libraries and settings.
+
+
+
+#### AWS:
+
+* Amazon Web Services (AWS) provides cloud computing platforms on a pay-as-you-go basis.
+
+
+	# Maven
+
+powerful project management tool that is based on POM
+
+
+#### maven:
+
+  aache software foundation
+  build automation tool
+  roet automation tool
+  handles comlete build Proess
+
+
+#### advantage of maven:
+
+  making the build proess easy
+  provide a unifrom build system
+  provide guidelines for best pratises
+  allow transparent migration
+
+
+#### pom.xml:
+
+  project
+  modelversion
+  grou-id- Com.sandy
+  version - 0.0.1 snapshot
+  name- dummyproject
+
+jdk 12.0.1
+
+
+#### mvn package command completes the build life cycle of the maven project such as:
+
+  validate
+  compile
+  test
+  package
+  integration-test
+  verify
+  install
+
+	
+	
+	
 
   
   
